@@ -74,9 +74,9 @@ You agree to indemnify, defend, and hold harmless Javon, its officers, agents, a
 
 ## 9. Governing Law and Jurisdiction
 
-This License shall be governed by and construed in accordance with the laws of [Your Jurisdiction, e.g., State of California, USA].
+This License shall be governed by and construed in accordance with the laws of Germany.
 
-Any disputes arising out of or in connection with this License shall be subject to the exclusive jurisdiction of the courts located in [Your Jurisdiction].
+Any disputes arising out of or in connection with this License shall be subject to the exclusive jurisdiction of the courts located in Germany.
 
 ---
 
