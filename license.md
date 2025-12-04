@@ -1,4 +1,4 @@
-## Custom Non-Commercial License (Version 1.0)
+## Custom Non-Commercial License (Version 1.1)
 
 **Copyright (c) 2025 Javon**
 
@@ -18,7 +18,7 @@ You agree that you will NOT, under any circumstances:
 
 - **Copy, reproduce, duplicate, or replicate** the Product or any substantial part thereof, including but not limited to its source code, design, interface, features, or functionality.
 
-- **Distribute, share, publish, or transmit** the Product, or any modified versions or derivatives, through any medium or platform, including online or offline channels.
+- **Distribute or publish** the Product, or any modified versions or derivatives, through any medium or platform, including online or offline channels.
 
 - **Sell, rent, lease, sublicense, or otherwise exploit the Product for commercial purposes or any form of monetary gain**, including but not limited to charging others for access or usage.
 
